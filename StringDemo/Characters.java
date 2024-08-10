@@ -1,4 +1,4 @@
-package com.StringDemo;
+package StringDemo;
 
 public class Characters {
     public static void main(String[] args) {
